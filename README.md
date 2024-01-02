@@ -1,5 +1,5 @@
 # Algorithm Practices
-My algorithm practices in quera.org
+I've expanded my knowledge of computer science fundamentals, including Big O notation, stacks, queues, hash set, and hash maps, through active learning and problem-solving on Quera.ir.
 
 - https://quera.org/problemset/280/
 - https://quera.org/problemset/589/
